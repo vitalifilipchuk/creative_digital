@@ -548,6 +548,8 @@
 }
 .dropdown {
 	margin-top: 10px;
+	float: right;
+	width: 75px;
 }
 .dropdown .dropdown-menu {
 	right: 0;
